@@ -28,12 +28,10 @@ Nuestra web se organiza de la siguiente manera:
 ## 👥 Equipo de Desarrollo
 | Nombre | Apellidos | Rol |
 | :--- | :--- | :--- |
-| [Tu Nombre] | [Tus Apellidos] | Full Stack Developer |
+| Miguel | Laime | Creador |
 
 ---
 
-## 💻 Estructura HTML de una Película
-Aquí tienes el fragmento de código que utilizo para mostrar cada película en la cuadrícula:
 
 ```html
 <article class="movie-card">
