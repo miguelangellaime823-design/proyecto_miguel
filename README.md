@@ -15,8 +15,7 @@ El objetivo de este proyecto es ofrecer una plataforma visual e intuitiva para q
 El alcance abarca desde el diseño de la interfaz (UI) hasta la gestión de la base de datos de películas. Los **usuarios potenciales** son críticos de cine y cualquier persona que busque recomendaciones de entretenimiento.
 
 ---
-
-## 🗺️ Menú de Navegación Principal
+ Menú de Navegación Principal
 Nuestra web se organiza de la siguiente manera:
 *    Inicio
 *    Cartelera
@@ -25,7 +24,7 @@ Nuestra web se organiza de la siguiente manera:
 
 ---
 
-## 👥 Equipo de Desarrollo
+Equipo de Desarrollo
 | Nombre | Apellidos | Rol |
 | :--- | :--- | :--- |
 | Miguel | Laime | Creador |
