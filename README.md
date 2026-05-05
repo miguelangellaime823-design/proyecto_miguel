@@ -1,4 +1,4 @@
-# 🎬 [Pelis de miguel]
+ [Pelis de miguel]
 <img width="931" height="1011" alt="image" src="https://github.com/user-attachments/assets/15899452-8ffe-4bd3-9eab-67e1e88b0489" />
 
 
