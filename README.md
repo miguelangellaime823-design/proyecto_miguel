@@ -1,8 +1,7 @@
 # 🎬 [Pelis de miguel]
 <img width="931" height="1011" alt="image" src="https://github.com/user-attachments/assets/15899452-8ffe-4bd3-9eab-67e1e88b0489" />
 
-<!-- Imagen principal: He puesto una de cine de ejemplo, puedes cambiar la URL por tu logo si tienes uno -->
-<img src="https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&q=80&w=300" alt="Logo de la web de pelis" width="300">
+
 
 Objetivo
 El objetivo de este proyecto es ofrecer una plataforma visual e intuitiva para que los amantes  puedan explorar estrenos, consultar fichas técnicas y organizar sus películas favoritas. Este repositorio contiene el código fuente del portal web desarrollado íntegramente por mí.
